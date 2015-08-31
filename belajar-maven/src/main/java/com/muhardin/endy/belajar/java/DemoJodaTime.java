@@ -1,4 +1,4 @@
-package com.muhardin.endy.belajar.java;
+package id.go.riau.bkd.belajarmaven;
 
 import org.joda.time.DateTime;
 
